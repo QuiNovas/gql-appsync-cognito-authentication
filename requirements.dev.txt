@@ -1,0 +1,5 @@
+black
+build
+gql[aiohttp]>=3.0.0
+pycognito
+virtualenv
